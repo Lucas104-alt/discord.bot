@@ -9,6 +9,10 @@
 - Discord.json | Make your own discord bot with json !
 [Join our Discord server !](https://discord.gg/X5ccPhr)
 
+# How To Make The Project
+Run the script ```npx @lucas11/discord-json-cli``` and  now you are ready to configurate!
+
+
 ![Sample configuration](https://nsa39.casimages.com/img/2018/11/04/181104042118770870.png)
 
 ```json
