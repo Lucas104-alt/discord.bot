@@ -5,6 +5,9 @@
 - Discord.json | Créez votre bot discord simplement avec un fichier JSON !
 [Rejoins notre serveur Discord !](https://discord.gg/X5ccPhr)
 
+# Comment réaliser le projet
+Exécutez le script ```npx @lucas11/discord-json-cli``` et vous êtes maintenant prêt à configurer !
+
 ![Sample configuration](https://nsa39.casimages.com/img/2018/11/04/181104042118770870.png)
 
 ```json
